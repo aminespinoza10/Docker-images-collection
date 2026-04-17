@@ -38,3 +38,12 @@ Thumbs.db
 .cache/
 dist/
 out/
+
+# .NET
+bin/
+obj/
+
+#Dotnet settings
+appsettings.json
+appsettings.Development.json
+appsettings.Production.json
