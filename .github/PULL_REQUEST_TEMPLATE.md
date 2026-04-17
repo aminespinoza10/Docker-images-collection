@@ -1,3 +1,7 @@
+# Issue
+
+Closes: <Número de issue>
+
 ## Descripción
 
 Por favor incluye un resumen de los cambios realizados y el problema que resuelven. Incluye también el contexto relevante y cualquier dependencia necesaria.
