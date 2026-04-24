@@ -3,4 +3,7 @@
 GET {{Dotnet_HostAddress}}/weatherforecast/
 Accept: application/json
 
-###
+### Get current date
+GET {{Dotnet_HostAddress}}/currentDate
+Accept: text/plain
+
