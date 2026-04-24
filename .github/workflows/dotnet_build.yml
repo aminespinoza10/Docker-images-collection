@@ -31,4 +31,4 @@ jobs:
     - name: Build Docker NET image
       working-directory: Dotnet
       run: | 
-        docker build --platform linux --tag $IMAGE_BASE_NAME -f .
+        docker build --platform linux --tag $IMAGE_BASE_NAME .
