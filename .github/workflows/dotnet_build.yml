@@ -5,7 +5,7 @@ on:
     branches: [ main ]
 
 env:
-  IMAGE_BASE_NAME: aminesacr.azurecr.io/addadult:latest
+  IMAGE_BASE_NAME: aminespinoza/dotnetimage:latest
 
 jobs:
   build:
